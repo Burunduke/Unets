@@ -1,6 +1,12 @@
-# Unets
+### app
 
-## UNET
+  - ### Eye_vessels.py
+  Creating windowed application to process chosen image
+  
+  - ### model.py
+  Using only UNET model here(it turned out to be the most effective)
+  
+### UNET
   - ### data.py
 Create custom dataset class
   - ### loss.py
@@ -20,5 +26,4 @@ Define losses
 ### train.py
   Model training
 
-## app
-  - ###
+
